@@ -18,7 +18,7 @@ Open problems
 In this course, we have seen that there may be such a thing as
 "dependently-typed programming" after all. We saw that it can be:
 
-  - effectufl                     (lecture 1)
+  - effectful                     (lecture 1)
   - correct-by-construction       (lecture 2)
   - structurally recursive or not (lecture 3)
   - generic                       (lecture 4)
